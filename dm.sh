@@ -3,6 +3,8 @@
 python -m pip install --upgrade pip
 pip3 install flask
 pip3 install --upgrade Flask
+pip install numpy
+pip install opencv-python
 pip3 install cv2
 pip3 install PIL
 pip3 install flask_sqlalchemy
